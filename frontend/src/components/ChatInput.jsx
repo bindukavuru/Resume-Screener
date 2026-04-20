@@ -15,7 +15,7 @@ export default function ChatInput({ setResult, setLoading, setSubmitted, loading
       const formData = new FormData();
       formData.append("job_description", jobDesc);
       formData.append("resume", resume);
-      const res = await axios.post("http://127.0.0.1:8000/screen", formData);
+      const res = await axios.post("https://resume-screener-backend-vick.onrender.com/screen", formData);
       setResult(res.data);
     } catch (e) {
       alert("Error: " + (e.response?.data?.detail || e.message));
