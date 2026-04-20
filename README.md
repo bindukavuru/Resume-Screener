@@ -7,7 +7,7 @@ Built as a portfolio project to help tailor resumes for specific job application
 ![Resume Screener Demo](https://img.shields.io/badge/Status-Live-brightgreen) ![Python](https://img.shields.io/badge/Python-3.10-blue) ![React](https://img.shields.io/badge/React-Vite-61DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-009688)
 
 ## 🌐 Live Demo
-👉 [resume-screener-app.vercel.app](https://resume-screener-app.vercel.app)
+👉 [resume-screener.vercel.app](https://resume-screener0.vercel.app/)
 
 ## ✨ Features
 - **ATS Score** — How well your resume passes automated tracking systems
